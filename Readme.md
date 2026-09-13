@@ -31,5 +31,15 @@ The website was built using WooCommerce for e-commerce functionality and Element
 Yoast SEO was also used to improve the website's search engine optimization and help optimize its content for search engines.
 
 ## Screenshots
+## Screenshots
 
+![Shop 1](shop1.png)
+
+![Shop 2](shop2.png)
+
+![Shop 3](shop3.png)
+
+![Shop 4](shop4.png)
+
+![Shop 5](shop5.png)
 
